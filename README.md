@@ -4,9 +4,12 @@ subscribe to youtube: https://youtube.com/@crafting_craze_gaming?si=HoVOPRpNRll5
 new video on this topic 
 # installation
 install Pufferpanel and ngrok
+
 ``sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/THE-ULTIMATE-ux/pufferpanel-easy-install.sh/main/install_pufferpanel.sh)"``
 
 add Pufferpanel user 
+
+
 ``docker exec -it pufferpanel /pufferpanel/pufferpanel user add``
 
  Add your authtoken of ngrok
