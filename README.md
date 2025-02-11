@@ -1,3 +1,5 @@
+https://pufferpanel.com/
+
 # install Pufferpanel in just 4 command with domain 
 work in GitHub like vps and its maked by craftingcrazegaming 
 subscribe to youtube: https://youtube.com/@crafting_craze_gaming?si=HoVOPRpNRll52YDm
